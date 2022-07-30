@@ -6,7 +6,6 @@
 <h3 align="center">A passionate Front-end and App Developer</h3>
 
 - 🔭  I’m currently working on [Bild & Vitta](https://www.bild.com.br/) 
-- 🌱  I’m currently learning **Blockchain, Cryptocurrencies and Web 3.0** 
 - 📝  I regularly write articles on [https://medium.com/@carpi](https://medium.com/@carpi)
 - 💬  Ask me about **everything**
 - 📫  How to reach me **gcarpi.developer@gmail.com**
