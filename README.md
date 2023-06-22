@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gcarpi&left_color=slategray&right_color=blue"  />
-</div>
-
-###
-
 <h3 align="left">About me</h3>
 
 ###
