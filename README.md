@@ -23,15 +23,11 @@
 
 <h3 align="left">About me</h3>
 
-###
-
 <p align="left">Hi there! I'm Guilherme from Brazil. I'm working as a FrontEnd Engineer at NAVE.  I'm a developer with 6+ years of experience, with a main focus on front-end and app development.</p>
 
 ###
 
 <h3 align="left">Front-end skills</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="24" alt="html5 logo"  />
@@ -57,8 +53,6 @@
 
 <h3 align="left">App development skills</h3>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="24" alt="react logo"  />
   <img width="16" />
@@ -68,8 +62,6 @@
 ###
 
 <h3 align="left">Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="docker logo"  />
