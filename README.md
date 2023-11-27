@@ -80,16 +80,3 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="24" alt="npm logo"  />
 </div>
-
-###
-
-<h3 align="left">Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=gcarpi&locale=en&mode=weekly&theme=rose_pine&hide_border=true&border_radius=8&order=3" height="160" alt="streak graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gcarpi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="160" alt="languages graph"  /> -->
-</div>
-
-###
