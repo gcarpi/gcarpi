@@ -23,7 +23,7 @@
 
 <h3 align="left">About me</h3>
 
-<p align="left">Hi there! I'm Guilherme from Brazil. I'm working as a FrontEnd Engineer at eSapiens  I'm a developer with 6+ years of experience, with a main focus on front-end and app development.</p>
+<p align="left">Hi there! I'm Guilherme from Brazil. I'm working as a FrontEnd Engineer at eSapiens. I'm a developer with 6+ years of experience, with a main focus on front-end and app development.</p>
 
 ###
 
