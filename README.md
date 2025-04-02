@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://s13.gifyu.com/images/S0id9.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/guilhermecarpi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -23,7 +17,7 @@
 
 <h3 align="left">About me</h3>
 
-<p align="left">Hi there! I'm Guilherme from Brazil. I'm working as a FrontEnd Engineer at eSapiens. I'm a developer with 6+ years of experience, with a main focus on front-end and app development.</p>
+<p align="left">Hi there! I'm Guilherme from Brazil. I'm working as a FrontEnd Engineer at eSapiens. I'm a developer with 7+ years of experience, with a main focus on front-end and app development.</p>
 
 ###
 
